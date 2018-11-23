@@ -5,8 +5,6 @@
 
 **Developers**
 - Cristian Gutierrez
-- Lizzeth Perez
-- Jorge Ramirez
 
 ### Installations Steps
 - Install Xampp
